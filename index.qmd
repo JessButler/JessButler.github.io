@@ -1,0 +1,65 @@
+---
+title: "Hello!"
+image: profile.jpg
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/JessButler284
+    - icon: building
+      text: Uni website
+      href: https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler
+---
+
+I'm a research scientist at the University of Aberdeen & NHS Grampian.<br>
+
+### Networked Data Lab
+
+I'm leading Grampian's  [collaboration](https://www.health.org.uk/funding-and-partnerships/the-networked-data-lab) with The Health Foundation and four other NHS centres across the UK. This is six-year project working to reduce health inequalities.  
+
+Our team's specialty is working with big, messy, high-security health and social care data. My focus is creating *useful* analysis for policy makers and care providers.
+
+Right now we're working on understanding inequalities in children's mental healthcare. 
+
+Read a [blog post](https://jessbutler.github.io/posts/camhs/) about mental health prescribing to children.
+Check out our [briefing paper](https://www.health.org.uk/publications/reports/improving-children-and-young-peoples-mental-health-services) for policy makers.
+Or wade into our academic [research article](https://www.medrxiv.org/content/10.1101/2022.06.14.22276082v1).
+
+
+### Public Health
+
+I also make open-source tools about local communities and their needs for the NHS public health team.  
+
+Check out:  
+[Poverty and emergency hospital admissions](https://jessbutler.github.io/emergency_admissions/)  
+[Overcrowding and vaccine needs](https://jessbutler.github.io/social_distancing/)  
+[Funding in priority neighbourhoods](https://jessbutler.github.io/priority_neighbourhoods/)
+
+
+### Research Culture
+
+I'm a huge nerd for open science and good research culture. 
+Scientists should be (but aren't) rewarded for doing rigorous science. [I recently gave evidence](https://committees.parliament.uk/event/6626/formal-meeting-oral-evidence-session/) about this to the House of Commons Science & Technology committee.  
+
+Interested in improving research quality? I run the Aberdeen Open Research Working Group.  All are very welcome to join - just drop me an [email](mailto:jessicabutler@abdn.ac.uk). There's also lots of resources on my [uni website](https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler).
+
+### Coronavirus
+
+During the pandemic, I led a Chief Scientist's Office project to [protect patients with serious medical conditions](https://www.cso.scot.nhs.uk/rapid-research-in-covid-19-programme/abncovidportfolio/) from coronavirus.  
+
+We advised the NHS on how to protect these patients as they receive necessary care during the pandemic. Read the [briefing paper](https://www.health.org.uk/publications/reports/assessing-the-impact-of-covid-19-on-the-clinically-extremely-vulnerable-population), [research](https://www.medrxiv.org/content/10.1101/2021.09.09.21263026v1) or a few [blog](https://www.health.org.uk/news-and-comment/charts-and-infographics/exploring-demographic-variation-in-groups-advised-to-shield) [posts](https://www.health.org.uk/news-and-comment/charts-and-infographics/hospital-use-clinically-extremely-vulnerable-population).
+
+### Data Provenance
+
+In 2022, I finished a Wellcome Trust Open Research project to design safe ways to [be open while using high-security patient data](https://wellcome.ac.uk/grant-funding/people-and-projects/grants-awarded/open-reproducible-analysis-and-reporting-data). We automated the capture and reporting of complex data provenance without compromising patient data privacy.
+
+### Contact
+
+[Email](mailto:jessicabutler@abdn.ac.uk)  
+[University website](https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler)  
+[Google Scholar](https://scholar.google.com/citations?user=N3iK7TcAAAAJ&hl=en)  
+[Orcid](https://orcid.org/0000-0003-2054-3777)  
+[Github](https://github.com/JessButler)  
+[Twitter](https://twitter.com/jessbutler284)
+

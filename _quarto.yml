@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jess Butler"
+  favicon: favicon.png
+  google-analytics: "G-76SX760VM2"
+  navbar:
+    right:
+      - blog.qmd
+      - icon: building
+        href: https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler
+      - icon: twitter
+        href: https://twitter.com/JessButler284
+format:
+  html:
+    theme: darkly
+    css: styles.css
+
+

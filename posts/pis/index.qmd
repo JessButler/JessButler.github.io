@@ -1,0 +1,79 @@
+---
+title: "Mental health medication for children"
+date: "2022-10-03"
+---
+
+We looked at all children living in the NHS Grampian region (Aberdeen City, Aberdeenshire and Moray). There were 100,000 people under age 18 in total.
+
+We measured how many prescriptions these children had for mental health medicine. This included medicine for ADHD, anxiety, depression, sleep problems, and psychoses.
+
+**We asked these questions**
+
+-   What kind of medicine for mental health do children take?
+
+-   Are they taking more of these medicines than before?
+
+-   Are boys and girls given different medicine?
+
+-   Are younger children given different medicine than older children?
+
+**What did we find?**
+
+<br>
+
+### Prescriptions to children up 60%
+
+**3%** of all children had a prescription for mental health medicine in 2021.  
+
+Since 2015, the number of prescriptions has risen from **24,000** to **37,000** per year.  
+
+-   Sleep prescriptions are up **91%**
+
+-   Antidepressant prescriptions are up **59%**
+
+-   ADHD prescriptions are up **45%**
+
+-   Anti-psychotic prescriptions are up **35%**  
+
+<br>
+
+### Boys get far more prescriptions than girls  
+
+Boys get **70%** of all prescriptions for mental health medicine. This difference is largest in the youngest children. Boys get the vast majority of prescriptions given to primary schoolers. Girls' prescriptions increase rapidly after age 13.  
+
+![](rx_by_age.png)
+
+<br>
+
+### Young children take ADHD medication & older children take anti-depressants 
+
+We looked at the kinds of medicine given to children of different ages.  
+
+Primary schoolers take mostly ADHD and sleep medication. By the end of secondary school, many more take anti-depressants.  
+
+Comparing boys and girls shows that boys are given mental health medicine at younger ages, mostly for ADHD and sleep.  
+
+Girls get many more prescriptions after puberty, mostly for anti-depressants.  
+
+![](rx_by_type_by_age.png)  
+
+<br>
+
+### Children living in poverty take much more mental health medicine  
+
+We compared children living in the poorest areas to those living in the wealthiest areas. Children living in poor neighbourhoods had **twice** as many prescriptions for mental health problems.  
+
+For every 100 children living in the poorest areas, there were **34** mental health prescriptions every year. In the wealthiest areas there were **17** prescriptions.  
+
+<br>
+
+### Tell me more
+
+This research was done as part of the [Networked Data Lab](https://www.health.org.uk/publications/reports/improving-children-and-young-peoples-mental-health-services) with partners at The Health Foundation.  
+
+[William Ball](https://twitter.com/WillBall12/status/1537791501102723072) led this analysis with me. Other contributors from the [Aberdeen Centre for Health Data Science](https://www.abdn.ac.uk/achds/) were: Corri Black, Sharon Gordon, Bārbala Ostrovska, Shantini Paranjothy, Adelene Rasalam, David Ritchie, Helen Rowlands, Elaine Thompson, Magdalena Rzewuska, and Katie Wilde.  
+
+Full details are in our publication [Inequalities in children’s mental health care: analysis of routinely collected data on prescribing and referrals to secondary care](https://www.medrxiv.org/content/10.1101/2022.06.14.22276082v2).  
+
+Policy recommendations from our work are in the briefing [Improving children and young people’s mental health services](https://www.health.org.uk/publications/reports/improving-children-and-young-peoples-mental-health-services)
+
