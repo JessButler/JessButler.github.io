@@ -11,8 +11,8 @@ website:
       - blog.qmd
       - icon: building
         href: https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler
-      - icon: twitter
-        href: https://twitter.com/JessButler284
+      - icon: mastodon
+        href: https://mastodon.social/@JessButler
 format:
   html:
     theme: darkly

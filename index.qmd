@@ -4,6 +4,9 @@ image: profile.jpg
 about:
   template: solana
   links:
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@JessButler
     - icon: twitter
       text: Twitter
       href: https://twitter.com/JessButler284
@@ -61,5 +64,6 @@ In 2022, I finished a Wellcome Trust Open Research project to design safe ways t
 [Google Scholar](https://scholar.google.com/citations?user=N3iK7TcAAAAJ&hl=en)  
 [Orcid](https://orcid.org/0000-0003-2054-3777)  
 [Github](https://github.com/JessButler)  
+[Mastodon](https://mastodon.social/@JessButler)
 [Twitter](https://twitter.com/jessbutler284)
 
