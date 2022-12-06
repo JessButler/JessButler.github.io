@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/goldacre/index.html",
       "/posts/referrals/index.html",
       "/posts/pis/index.html"
     ]

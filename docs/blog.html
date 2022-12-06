@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.36">
+<meta name="generator" content="quarto-1.1.189">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -66,9 +71,9 @@ ul.task-list{list-style: none;}
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -106,9 +111,11 @@ gtag('config', 'G-76SX760VM2', { 'anonymize_ip': true});
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Jess Butler</span>
-  </a>
+    </a>
+  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -123,7 +130,7 @@ gtag('config', 'G-76SX760VM2', { 'anonymize_ip': true});
  </a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/JessButler284"><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://mastodon.social/@JessButler"><i class="bi bi-mastodon" role="img">
 </i> 
  </a>
   </li>  
@@ -165,7 +172,36 @@ gtag('config', 'G-76SX760VM2', { 'anonymize_ip': true});
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1664838000000" data-listing-file-modified-sort="1664877917028" data-listing-reading-time-sort="2.14">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1670371200000" data-listing-file-modified-sort="1670327876215" data-listing-reading-time-sort="2.31">
+<div class="thumbnail">
+<a href="./posts/goldacre/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./posts/goldacre/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./posts/goldacre/index.html">
+<h3 class="no-anchor listing-title">
+Goldacre Report
+</h3>
+<div class="listing-subtitle">
+Improving research and analysis with NHS data
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/goldacre/index.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1664838000000" data-listing-file-modified-sort="1667922137805" data-listing-reading-time-sort="2.14">
 <div class="thumbnail">
 <p><a href="./posts/referrals/index.html"> <img src="./posts/referrals/ref_by_age.png" class="thumnail-image"> </a></p>
 </div>
@@ -190,7 +226,7 @@ Oct 4, 2022
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1664751600000" data-listing-file-modified-sort="1664874702856" data-listing-reading-time-sort="2.245">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1664751600000" data-listing-file-modified-sort="1667922137800" data-listing-reading-time-sort="2.245">
 <div class="thumbnail">
 <p><a href="./posts/pis/index.html"> <img src="./posts/pis/rx_by_age.png" class="thumnail-image"> </a></p>
 </div>
@@ -289,7 +325,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

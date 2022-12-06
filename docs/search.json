@@ -11,7 +11,7 @@
     "href": "blog.html",
     "title": "blog posts",
     "section": "",
-    "text": "Oct 4, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 3, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Improving research and analysis with NHS data\n\n\n\n\n\n\n\n\n\nDec 7, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 4, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 3, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/pis/index.html",
@@ -26,5 +26,110 @@
     "title": "Children’s specialist mental health care",
     "section": "",
     "text": "We studied children’s referrals to see specialist doctors in out-patient clinics.\nWe asked these questions\n\nHow many children are referred to mental health specialists?\nAre more being referred than before?\nWhich children are accepted for specialist treatment?\nAre boys and girls treated differently?\nAre older and younger children treated differently?\n\nWhat did we find?\n\n\nMany children need specialist mental health care\n3% of all children were referred to see a mental health specialist in 2020.\n\n\n\nOlder children’s mental healthcare needs are rising\nTeenagers are being referred to see mental health specialists more often. Referrals are up about 30% since 2015.\nReferrals for primary school children have not risen. Referrals for children under 5 are down.\n\n\n\n\nMental health specialists treat mostly teenagers\nWe measured which children’s referrals for specialist care were rejected.\n20% of secondary schooler’s referrals for mental healthcare are rejected. This hasn’t changed over time.\n50% of referrals for young children are rejected. There has been is a large increase in rejection of young children since 2015.\nThe children treated in the specialist mental health clinics now average 1.5 years older than in 2015.\n\n\n\n\nBoys are being treated less by mental health specialists\nIn 2015, mental health specialists treated equal numbers of girls and boys. Now boys are being referred less and rejected more. There are now twice as many girls being treated by specialists as boys.\n\n\n\n\nChildren living in poverty need more specialist care younger\nWe compared children living in the poorest areas to those living in the wealthiest areas. Children living in poor neighbourhoods had twice as many referrals for specialist mental health care.\nThe average age of a child’s first referral to specialist is over a year younger for those living in the most deprived areas.\n\n\n\nTell me more\nThis research was done as part of the Networked Data Lab with partners at The Health Foundation.\nWilliam Ball led this analysis with me. Other contributors from the Aberdeen Centre for Health Data Science were: Corri Black, Sharon Gordon, Bārbala Ostrovska, Shantini Paranjothy, Adelene Rasalam, David Ritchie, Helen Rowlands, Elaine Thompson, Magdalena Rzewuska, and Katie Wilde.\nFull details are in our publication Inequalities in children’s mental health care: analysis of routinely collected data on prescribing and referrals to secondary care.\nPolicy recommendations from our work are in the briefing Improving children and young people’s mental health services"
+  },
+  {
+    "objectID": "posts/goldacre/index.html",
+    "href": "posts/goldacre/index.html",
+    "title": "Goldacre Report",
+    "section": "",
+    "text": "The Goldacre review was tasked with finding ways to deliver better, broader, safer use of NHS data for analysis and research.\nThe recommendations are derived from extensive engagement with over 300 individuals, 8 focus groups, 100 written submissions, substantial desk research, and detailed discussion with our senior stakeholder group."
+  },
+  {
+    "objectID": "posts/goldacre/index.html#the-report-gives-recommendations-for",
+    "href": "posts/goldacre/index.html#the-report-gives-recommendations-for",
+    "title": "Goldacre Report",
+    "section": "The report gives recommendations for",
+    "text": "The report gives recommendations for\n\nSecurity\nModern methods\nData curation\nData analysts\nGovernance\nStrategy"
+  },
+  {
+    "objectID": "posts/goldacre/index.html#security",
+    "href": "posts/goldacre/index.html#security",
+    "title": "Goldacre Report",
+    "section": "Security",
+    "text": "Security\n\nAll NHS policies should acknowledge the shortcomings of ‘pseudonymisation’ for managing patient privacy\nBuild a small number of secure analytics platforms (Trusted Research Environments)\nShut down all flows of psudonymised GP data as soon as TREs are built"
+  },
+  {
+    "objectID": "posts/goldacre/index.html#security-1",
+    "href": "posts/goldacre/index.html#security-1",
+    "title": "Goldacre Report",
+    "section": "Security",
+    "text": "Security\n\nCreate faster data access rules and processes for safe users\nUse TREs for all analysis of NHS patient records by NHS staff, academics and innovators\nPublish logs of all TRE activity"
+  },
+  {
+    "objectID": "posts/goldacre/index.html#modern-methods",
+    "href": "posts/goldacre/index.html#modern-methods",
+    "title": "Goldacre Report",
+    "section": "Modern methods",
+    "text": "Modern methods\n\nReproducible Analytical Pathways should be the minimum standard for all NHS data analysis\nAll code for NHS data curation and analysis should be shared openly\nFund competitive, high status, standalone software projects and developers"
+  },
+  {
+    "objectID": "posts/goldacre/index.html#data-curation",
+    "href": "posts/goldacre/index.html#data-curation",
+    "title": "Goldacre Report",
+    "section": "Data curation",
+    "text": "Data curation\n\nStop doing data curation differently and duplicatively in every team and project\nRecognise NHS data curation as a complex, high status technical challenge\nDevote teams to systematic curation work, using shared practices, code, tools, and documentation\nCreate an open online library for NHS data curation code, validity tests, and technical documentation"
+  },
+  {
+    "objectID": "posts/goldacre/index.html#data-analysts-careers",
+    "href": "posts/goldacre/index.html#data-analysts-careers",
+    "title": "Goldacre Report",
+    "section": "Data analysts careers",
+    "text": "Data analysts careers\n\nCreate an NHS Analyst Service modelled on the Government Economic Service and Statistical Service\nNHS Analyst Service should have:\n\na head of profession\n\nclear job descriptions tied to technical skills\n\nprogression opportunities to become a senior analyst\n\nrealistic salaries for expensive specific skills"
+  },
+  {
+    "objectID": "posts/goldacre/index.html#data-analysis-training",
+    "href": "posts/goldacre/index.html#data-analysis-training",
+    "title": "Goldacre Report",
+    "section": "Data analysis training",
+    "text": "Data analysis training\n\nCreate an Open College for NHS Analysts\nThe Open College should provide initial training and continuing professional development tied to job descriptions\nAll Open College content should be shared openly online\nTrain senior non-analysts and leaders to be good customers of data teams"
+  },
+  {
+    "objectID": "posts/goldacre/index.html#governance",
+    "href": "posts/goldacre/index.html#governance",
+    "title": "Goldacre Report",
+    "section": "Governance",
+    "text": "Governance\n\nEnd trusts and GPs all acting as separate data controllers\nCreate a single application for all ethics, governance, and access permissions\nPublish access delays annually"
+  },
+  {
+    "objectID": "posts/goldacre/index.html#governance-1",
+    "href": "posts/goldacre/index.html#governance-1",
+    "title": "Goldacre Report",
+    "section": "Governance",
+    "text": "Governance\n\nGet appropriate financial return where marketable innovations are driven by NHS data\nAvoid exclusive commercial arrangements\nDisclose all funding for TREs including: source, amount, recipients, objectives, and outputs"
+  },
+  {
+    "objectID": "posts/goldacre/index.html#strategy",
+    "href": "posts/goldacre/index.html#strategy",
+    "title": "Goldacre Report",
+    "section": "Strategy",
+    "text": "Strategy\n\nRapidly create Data Pioneer Groups to develop open methods, code, and technical documentation\nData Pioneer Groups should initially be separate from ‘business as usual’, but should incrementally subsume it"
+  },
+  {
+    "objectID": "posts/goldacre/index.html#strategy-1",
+    "href": "posts/goldacre/index.html#strategy-1",
+    "title": "Goldacre Report",
+    "section": "Strategy",
+    "text": "Strategy\n\nCreate very senior strategic leadership roles for developers, data architects and data scientists\nDevelop a common TRE service run by civil servants"
+  },
+  {
+    "objectID": "posts/goldacre/index.html#references",
+    "href": "posts/goldacre/index.html#references",
+    "title": "Goldacre Report",
+    "section": "References",
+    "text": "References\n\nReport website\nExecutive summary\nJess Morley’s superb synthesis of all 9 UK strategic initiatives for health data"
+  },
+  {
+    "objectID": "posts/goldacre/index.html#better-broader-safer-using-health-data-for-research-and-analysis",
+    "href": "posts/goldacre/index.html#better-broader-safer-using-health-data-for-research-and-analysis",
+    "title": "Goldacre Report",
+    "section": "Better, broader, safer: using health data for research and analysis",
+    "text": "Better, broader, safer: using health data for research and analysis\nThe Goldacre review was tasked with finding ways to deliver better, broader, safer use of NHS data for analysis and research.\nThe recommendations are derived from extensive engagement with over 300 individuals, 8 focus groups, 100 written submissions, substantial desk research, and detailed discussion with our senior stakeholder group."
+  },
+  {
+    "objectID": "posts/goldacre/index.html#report-topic-areas",
+    "href": "posts/goldacre/index.html#report-topic-areas",
+    "title": "Goldacre Report",
+    "section": "Report topic areas",
+    "text": "Report topic areas\n\nSecurity\nModern methods\nData curation\nData analysts\nGovernance\nStrategy"
   }
 ]
