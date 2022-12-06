@@ -1,0 +1,115 @@
+---
+title: "Goldacre Report"
+subtitle: "Improving research and analysis with NHS data"
+format: revealjs
+date: "7 December 2022"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Better, broader, safer: using health data for research and analysis
+
+[The Goldacre review](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis) was tasked with finding ways to deliver better, broader, safer use of NHS data for analysis and research.
+
+The recommendations are derived from extensive engagement with over 300 individuals, 8 focus groups, 100 written submissions, substantial desk research, and detailed discussion with our senior stakeholder group.
+
+## Report topic areas
+
+- Security
+- Modern methods
+- Data curation
+- Data analysts
+- Governance
+- Strategy
+
+## Security
+
+- All NHS policies should acknowledge the shortcomings of ‘pseudonymisation’ for managing patient privacy
+
+- Build a small number of secure analytics platforms (**T**rusted **R**esearch **E**nvironments) 
+
+- Shut down all flows of psudonymised GP data as soon as TREs are built
+
+## Security
+
+- Create faster data access rules and processes for safe users 
+
+- Use TREs for all analysis of NHS patient records by NHS staff, academics and innovators
+
+- Publish logs of all TRE activity
+
+## Modern methods
+
+- [**R**eproducible **A**nalytical **P**athways](https://analysisfunction.civilservice.gov.uk/policy-store/reproducible-analytical-pipelines-strategy/) should be the minimum standard for all NHS data analysis
+
+- All code for NHS data curation and analysis should be shared openly
+
+- Fund competitive, high status, standalone software projects and developers
+
+## Data curation
+
+- Stop doing data curation differently and duplicatively in every team and project
+
+- Recognise NHS data curation as a complex, high status technical challenge
+
+- Devote teams to systematic curation work, using shared practices, code, tools, and documentation
+
+- Create an open online library for NHS data curation code, validity tests, and technical documentation
+
+## Data analysts careers
+
+- Create an NHS Analyst Service modelled on the [Government Economic Service and Statistical Service](https://www.gov.uk/government/organisations/civil-service-government-economic-service/about)
+
+- NHS Analyst Service should have:  
+  * a head of profession  
+  * clear job descriptions tied to technical skills  
+  * progression opportunities to become a senior analyst  
+  * realistic salaries for expensive specific skills
+  
+## Data analysis training
+
+- Create an Open College for NHS Analysts
+
+- The Open College should provide initial training and continuing professional development tied to job descriptions
+
+- All Open College content should be shared openly online
+
+- Train senior non-analysts and leaders to be good customers of data teams
+
+## Governance
+
+- End trusts and GPs all acting as separate data controllers
+
+- Create a single application for all ethics, governance, and access permissions
+
+- Publish access delays annually
+
+## Governance
+
+- Get appropriate financial return where marketable innovations are driven by NHS data
+
+- Avoid exclusive commercial arrangements
+
+- Disclose all funding for TREs including: source, amount, recipients, objectives, and outputs
+
+## Strategy
+
+- Rapidly create **Data Pioneer Groups** to develop open methods, code, and technical documentation
+
+- Data Pioneer Groups should initially be separate from ‘business as usual’, but should incrementally subsume it
+
+## Strategy
+
+- Create very senior strategic leadership roles for developers, data architects and data scientists
+
+- Develop a common TRE service run by civil servants
+
+## References
+
+- Report [website](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis)
+
+- Executive [summary](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1067057/executive-summary-goldacre-review-using-health-data-for-research-and-analysis.pdf)
+
+- Jess Morley's superb [synthesis](https://www.healthdatanerd.org/post/what-the-f-ederation-synthesising-the-many-recent-data-strategies-white-papers-and-reviews) of all 9 UK strategic initiatives for health data
