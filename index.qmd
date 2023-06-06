@@ -7,8 +7,11 @@ about:
     - icon: mastodon
       text: Mastodon
       href: https://mastodon.social/@JessButler
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/jessbutler284
     - icon: building
-      text: Uni website
+      text: Uni
       href: https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler
 ---
 
@@ -16,14 +19,14 @@ I'm the Lead Data Scientist at NHS Grampian and a Senior Research Fellow at the 
 
 ### Networked Data Lab
 
-I run Grampian's  [collaboration](https://www.health.org.uk/funding-and-partnerships/the-networked-data-lab) with The Health Foundation and four other NHS centres across the UK. This is a six-year project working to reduce health inequalities.  
+I run Grampian's  [collaboration with The Health Foundation and four other NHS centres across the UK](https://www.health.org.uk/funding-and-partnerships/the-networked-data-lab). This is a six-year project working to reduce health inequalities.  
 
 Our team's specialty is working with big, messy, high-security health and social care data. My focus is creating *useful* analysis for policy makers and care providers.
 
 Right now we're working on understanding inequalities in children's mental healthcare. 
 
-Read a [blog post](https://jessbutler.github.io/posts/pis/) about mental health prescribing to children. Or a [post](https://jessbutler.github.io/posts/referrals/) about children's treatment by specialist mental health doctors.
-Check out our [briefing paper](https://www.health.org.uk/publications/reports/improving-children-and-young-peoples-mental-health-services) for policy makers.
+Read a blog post about [mental health prescribing to children](https://jessbutler.github.io/posts/pis/). Or a post about [children's treatment by specialist mental health doctors](https://jessbutler.github.io/posts/referrals/).
+Check out our [briefing paper for policy makers](https://www.health.org.uk/publications/reports/improving-children-and-young-peoples-mental-health-services).
 Or wade into our academic [research article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04438-5).
 
 
