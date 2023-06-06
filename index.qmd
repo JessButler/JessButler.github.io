@@ -12,7 +12,7 @@ about:
       href: https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler
 ---
 
-I'm a senior research scientist at the University of Aberdeen & NHS Grampian.<br>
+I'm Lead Data Scientist at NHS Grampian and Senior Research Fellow at the University of Aberdeen. <br>
 
 ### Networked Data Lab
 
@@ -22,7 +22,7 @@ Our team's specialty is working with big, messy, high-security health and social
 
 Right now we're working on understanding inequalities in children's mental healthcare. 
 
-Read a [blog post](https://jessbutler.github.io/posts/camhs/) about mental health prescribing to children. Or a [post](https://jessbutler.github.io/posts/referrals/) about children's treatment by specialist mental health doctors.
+Read a [blog post](https://jessbutler.github.io/posts/pis/) about mental health prescribing to children. Or a [post](https://jessbutler.github.io/posts/referrals/) about children's treatment by specialist mental health doctors.
 Check out our [briefing paper](https://www.health.org.uk/publications/reports/improving-children-and-young-peoples-mental-health-services) for policy makers.
 Or wade into our academic [research article](https://www.medrxiv.org/content/10.1101/2022.06.14.22276082v1).
 
