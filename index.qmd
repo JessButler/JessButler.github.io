@@ -24,7 +24,7 @@ Right now we're working on understanding inequalities in children's mental healt
 
 Read a [blog post](https://jessbutler.github.io/posts/pis/) about mental health prescribing to children. Or a [post](https://jessbutler.github.io/posts/referrals/) about children's treatment by specialist mental health doctors.
 Check out our [briefing paper](https://www.health.org.uk/publications/reports/improving-children-and-young-peoples-mental-health-services) for policy makers.
-Or wade into our academic [research article](https://www.medrxiv.org/content/10.1101/2022.06.14.22276082v1).
+Or wade into our academic [research article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04438-5).
 
 
 ### Public Health
@@ -40,7 +40,7 @@ Check out:
 ### Research Culture
 
 I'm a huge nerd for open science and good research culture. 
-Scientists should be (but aren't) rewarded for doing rigorous science. [I recently gave evidence](https://committees.parliament.uk/event/6626/formal-meeting-oral-evidence-session/) about this to the House of Commons Science & Technology committee.  
+Scientists should be (but aren't) rewarded for doing rigorous science. I recently gave evidence about this to the [House of Commons Science & Technology committee](https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/101/summary.html). You can also watch a spicy symposium I hosted: [Academic Journals are Broken. Let's Build a Better Scientific Record.](https://www.youtube.com/watch?v=1G2btEDb0j0) 
 
 Interested in improving research quality? I run the Aberdeen Open Research Working Group.  All are very welcome to join - just drop me an [email](mailto:jessicabutler@abdn.ac.uk). There's also lots of resources on my [uni website](https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler).
 
@@ -63,4 +63,3 @@ In 2022, I finished a Wellcome Trust Open Research project to design safe ways t
 [Github](https://github.com/JessButler)  
 <a rel="me" href="https://mastodon.social/@JessButler">Mastodon</a>  
 [Twitter](https://twitter.com/jessbutler284)
-
