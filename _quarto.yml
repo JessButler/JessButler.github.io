@@ -9,10 +9,7 @@ website:
   navbar:
     right:
       - blog.qmd
-      - icon: building
-        href: https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler
-      - icon: mastodon
-        href: https://mastodon.social/@JessButler
+      
 format:
   html:
     theme: darkly
