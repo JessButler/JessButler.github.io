@@ -12,11 +12,11 @@ about:
       href: https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler
 ---
 
-I'm Lead Data Scientist at NHS Grampian and Senior Research Fellow at the University of Aberdeen. <br>
+I'm the Lead Data Scientist at NHS Grampian and a Senior Research Fellow at the University of Aberdeen. <br>
 
 ### Networked Data Lab
 
-I'm leading Grampian's  [collaboration](https://www.health.org.uk/funding-and-partnerships/the-networked-data-lab) with The Health Foundation and four other NHS centres across the UK. This is six-year project working to reduce health inequalities.  
+I run Grampian's  [collaboration](https://www.health.org.uk/funding-and-partnerships/the-networked-data-lab) with The Health Foundation and four other NHS centres across the UK. This is a six-year project working to reduce health inequalities.  
 
 Our team's specialty is working with big, messy, high-security health and social care data. My focus is creating *useful* analysis for policy makers and care providers.
 
@@ -29,7 +29,7 @@ Or wade into our academic [research article](https://www.medrxiv.org/content/10.
 
 ### Public Health
 
-I also make open-source tools about local communities and their needs for the NHS public health team.  
+I also make open-source tools about local communities and their needs for NHS Public Health.  
 
 Check out:  
 [Poverty and emergency hospital admissions](https://jessbutler.github.io/emergency_admissions/)  
@@ -56,7 +56,7 @@ In 2022, I finished a Wellcome Trust Open Research project to design safe ways t
 
 ### Contact
 
-[Email](mailto:jessicabutler@abdn.ac.uk)  
+[Email](mailto:jessica.butler2@nhs.scot)  
 [University website](https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler)  
 [Google Scholar](https://scholar.google.com/citations?user=N3iK7TcAAAAJ&hl=en)  
 [Orcid](https://orcid.org/0000-0003-2054-3777)  
