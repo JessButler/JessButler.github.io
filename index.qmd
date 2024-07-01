@@ -15,7 +15,7 @@ about:
       href: https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler
 ---
 
-I'm the Lead Data Scientist at NHS Grampian and a Senior Research Fellow at the University of Aberdeen. <br>
+I'm the Lead Data Scientist at NHS Grampian and Senior Research Fellow at the University of Aberdeen. <br>
 
 ### Networked Data Lab
 
