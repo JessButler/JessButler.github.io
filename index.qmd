@@ -4,12 +4,12 @@ image: profile.jpg
 about:
   template: solana
   links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/jessbutler.bsky.social
     - icon: mastodon
       text: Mastodon
       href: https://mastodon.social/@JessButler
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/jessbutler284
     - icon: building
       text: Uni
       href: https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler
@@ -33,13 +33,13 @@ Read a blog post about [mental health prescribing to children](https://jessbutle
 
 How do patients end up in hospital? Who comes unexpectedly as an emergency? Who is advised to go by their GP? And where do people go when they're released from hospital? Do they go straight home, or stay at a local care centre first?
 
-We are studying patient pathways into and out of our hospitals. Knowing the answer to these questions helps tailor healthcare, which reduces stays in hospital and waits for people with scheduled care.
+We are studying [patient pathways into and out of our hospitals](https://www.health.org.uk/publications/long-reads/the-challenges-and-potential-of-intermediate-care). Knowing the answer to these questions helps tailor healthcare, which reduces stays in hospital and waits for people with scheduled care.
 
 We'll publish a briefing paper with our analysis combined with four other UK regions this autumn.
 
 ### Waitlists
 
-Millions of people are waiting for NHS care, they're waiting longer than ever, and the waitlist is growing. How do we prioritise who gets care? How should the NHS spend it's funding to shorten waitlists?  
+Millions of people are waiting for NHS care, they're waiting longer than ever, and the waitlist is growing. How do we prioritise who gets care? How should the NHS spend it's funding to shorten waitlists?
 
 We've just begun to measure the consequences of longer waitlists within the NHS. We're determining which specialties have patients who are using the most healthcare while they're waiting. This will let us identify patients and procedures that could be priorised (to save patient suffering and to more efficiently spend NHS resources).
 
@@ -75,5 +75,6 @@ In 2022, I finished a Wellcome Trust Open Research project to design safe ways t
 [Google Scholar](https://scholar.google.com/citations?user=N3iK7TcAAAAJ&hl=en)\
 [Orcid](https://orcid.org/0000-0003-2054-3777)\
 [Github](https://github.com/JessButler)\
+[Bluesky](https://bsky.app/profile/jessbutler.bsky.social)\
 <a rel="me" href="https://mastodon.social/@JessButler">Mastodon</a>\
-[Twitter](https://twitter.com/jessbutler284)
+[Twitter](https://twitter.com/jessbutler284)\
