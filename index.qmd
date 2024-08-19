@@ -4,18 +4,22 @@ image: profile.jpg
 about:
   template: solana
   links:
-    - icon: bluesky
+    - icon: envelope
+      text: Email
+      href: mailto:jessica.butler2@nhs.scot
+    - icon: at
       text: Bluesky
       href: https://bsky.app/profile/jessbutler.bsky.social
     - icon: mastodon
       text: Mastodon
       href: https://mastodon.social/@JessButler
-    - icon: building
-      text: Uni
+    - icon: mortarboard-fill
+      text: Uni Website
       href: https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler
+email-obfuscation: javascript
 ---
 
-I'm the Lead Data Scientist at NHS Grampian and Senior Research Fellow at the University of Aberdeen. <br>
+I'm the Lead Data Scientist at NHS Grampian and Senior Research Fellow at the University of Aberdeen.<br>
 
 ### Networked Data Lab
 
