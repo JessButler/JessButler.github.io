@@ -1,0 +1,67 @@
+---
+title: "Patient pathways into and out of hospital"
+subtitle: "Analysis of intermediate care in Grampian"
+format: revealjs
+author: "Networked Data Lab"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Healthcare in your community
+
+<br>
+The [Scottish Government states](https://www.gov.scot/publications/maximising-recovery-promoting-independence-intermediate-care-framework-scotland/)  
+
+“we must deliver person-centred **community-based services** that will help people to live healthy, independent lives in the way they want, where they want, and when they want."
+
+## Between GP care and hospital care
+<br>
+
+"**Intermediate Care** can help shift the balance of care away from hospital and can reduce the need for alternative, longer-term care services, such as home care, or permanent admission to a care home."
+
+## Pathways into and out of hospital
+<br>
+
+Patients get care before or after a hospital stay at home, at a community hospital, or at a care home
+
+## Intermediate care in NHS Grampian
+<br>
+
+Most intermediate care takes place in small community hospitals.  
+
+![](map.png)
+
+## Our research goals were to measure
+<br>
+
+Who receives intermediate care?  
+How much care is for people coming from the big hospitals?  
+How much care is for people coming from home?  
+What are the medical needs of the patients?  
+How has intermediate care changed over time?  
+Are there differences across locations?  
+
+## Who did we study?
+<br>
+
+- Any person age 50 and above  
+- Who was admitted any time in 2018 through 2023  
+- To any of the 17 intermediate care settings  
+[11 community hospitals in Aberdeenshire, 4 in Moray, Rosewell House, or Hospital-at-Home (home care delivered by NHSG consultants)]
+
+## Who used intermediate care?
+<br>
+
+In the five years 2018-2023, **13,000 people** were admitted to an intermediate care setting. Some people had more than one admission, so overall there were **24,000** admissions.
+
+## Community Hospital admissions are down
+<br>
+
+Since the pandemic, admissions to community hospitals are down steeply.  
+
+![](admissions_per_quarter.png)
+	
+## References
+
