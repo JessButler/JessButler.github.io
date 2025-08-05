@@ -7,15 +7,12 @@ about:
     - icon: envelope
       text: Email
       href: mailto:jessica.butler2@nhs.scot
-    - icon: at
-      text: Bluesky
-      href: https://bsky.app/profile/jessbutler.bsky.social
-    - icon: mastodon
-      text: Mastodon
-      href: https://mastodon.social/@JessButler
     - icon: mortarboard-fill
       text: Uni Website
       href: https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler
+    - icon: at
+      text: Bluesky
+      href: https://bsky.app/profile/jessbutler.bsky.social
 email-obfuscation: javascript
 ---
 
@@ -23,29 +20,41 @@ I'm the Lead Data Scientist at NHS Grampian and Senior Research Fellow at the Un
 
 ### Networked Data Lab
 
-I run Grampian's [collaboration with The Health Foundation and four other NHS centres across the UK](https://www.health.org.uk/funding-and-partnerships/the-networked-data-lab). This is a six-year project working to reduce health inequalities.
+I run Grampian's [collaboration with The Health Foundation and four other NHS centres across the UK](https://www.health.org.uk/funding-and-partnerships/the-networked-data-lab). This is a seven-year, million-pound project working to reduce health inequalities.
 
-Our team's specialty is working with big, messy, high-security health and social care data. My focus is creating *useful* analysis for policy makers and care providers.
+My team's specialty is working with big, messy, high-security health and social care data. We create *useful* analysis for policy makers and care providers.
 
-### Children's Mental Health
+Get in touch if you're interested in an academic + NHS collaboration! We're always looking for partners in improving care.
 
-We recently finished a big project working to understand inequalities in children's mental healthcare.
-
-Read a blog post about [mental health prescribing to children](https://jessbutler.github.io/posts/pis/). Or a post about [children's treatment by specialist mental health doctors](https://jessbutler.github.io/posts/referrals/). Check out our [briefing paper for policy makers](https://www.health.org.uk/publications/reports/improving-children-and-young-peoples-mental-health-services). Or wade into our academic [research article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04438-5).
-
-### Patient Pathways
-
-How do patients end up in hospital? Who comes unexpectedly as an emergency? Who is advised to go by their GP? And where do people go when they're released from hospital? Do they go straight home, or stay at a local care centre first?
-
-We are studying [patient pathways into and out of our hospitals](https://www.health.org.uk/publications/long-reads/the-challenges-and-potential-of-intermediate-care). Knowing the answer to these questions helps tailor healthcare, which reduces stays in hospital and waits for people with scheduled care.
-
-We'll publish a briefing paper with our analysis combined with four other UK regions this autumn.
-
-### Waitlists
+### Who Gets Treated First?
 
 Millions of people are waiting for NHS care, they're waiting longer than ever, and the waitlist is growing. How do we prioritise who gets care? How should the NHS spend it's funding to shorten waitlists?
 
-We've just begun to measure the consequences of longer waitlists within the NHS. We're determining which specialties have patients who are using the most healthcare while they're waiting. This will let us identify patients and procedures that could be priorised (to save patient suffering and to more efficiently spend NHS resources).
+We have a new [briefing paper that describes inequalities in waiting times for hospital treatments](https://www.health.org.uk/reports-and-analysis/briefings/the-elective-care-waiting-list-insights-from-linked-data) – people who live in the most deprived areas and people from Black or Asian ethnic backgrounds wait longer for treatment.
+
+We've also measured the consequences of longer waits. We've found which medical procedures have patients who are using the most healthcare while they're waiting. 
+
+This work lets us identify patients and procedures that could be priorised (to save patient suffering and to more efficiently spend NHS resources).
+
+Come see me present this work at the [Royal Statistical Society's conference](https://rss.org.uk/training-events/conference-2025/) in Edinburgh!
+
+### Prevention versus Recovery
+
+How do patients end up in hospital? Who comes as an emergency? Who is advised to come by their GP? And where do people go when they're released from hospital? Do they go straight home, or stay at a local care centre first?
+
+We recently published on [patient pathways into and out of hospital](https://www.health.org.uk/reports-and-analysis/briefings/are-intermediate-care-services-stretched-too-thin). We found that pre-COVID, community medical centres were used primarily for preventative care, but they are now mostly used for older and sicker patients’ recovery after a hospitalisation.
+
+This work highlights the loss of preventative care due to bottlenecks in the care pathway.
+
+### Children's Mental Health
+
+We have several studies looking to understand inequalities in children's mental healthcare.
+
+Read a blog post about [mental health prescribing to children](https://jessbutler.github.io/posts/pis/). Or a post about [children's treatment by specialist mental health doctors](https://jessbutler.github.io/posts/referrals/). 
+
+Check out our [briefing paper for policy makers](https://www.health.org.uk/publications/reports/improving-children-and-young-peoples-mental-health-services). Or read our [article on inequalities in children's mental healthcare](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04438-5) and on [the mental healthcare of children at risk of significant harm](https://www.sciencedirect.com/science/article/pii/S0277953624005100)
+
+We show that prescriptions for mental health medications have increased steeply, and that younger children and boys are more likely to be rejected by mental health services. We also found that children deemed at significant risk of harm by social workers used five times more mental healthcare.
 
 ### Public Health
 
@@ -58,7 +67,7 @@ Check out:\
 
 ### Research Culture
 
-I'm a huge nerd for open science and good research culture. Scientists should be (but aren't) rewarded for doing rigorous science. I recently gave evidence about this to the [House of Commons Science & Technology committee](https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/101/summary.html). You can also watch a spicy symposium I hosted: [Academic Journals are Broken. Let's Build a Better Scientific Record.](https://www.youtube.com/watch?v=1G2btEDb0j0)
+I'm a huge advocate for open science and good research culture. Scientists should be (but aren't) rewarded for doing rigorous science. I recently gave evidence about this to the [House of Commons Science & Technology committee](https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/101/summary.html). You can also watch a symposium I hosted: [Academic Journals are Broken. Let's Build a Better Scientific Record.](https://www.youtube.com/watch?v=1G2btEDb0j0)
 
 ### Coronavirus
 
