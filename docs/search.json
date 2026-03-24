@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Hello!",
     "section": "",
-    "text": "I’m the Lead Data Scientist at NHS Grampian and Senior Research Fellow at the University of Aberdeen.\n\nNetworked Data Lab\nI run Grampian’s collaboration with The Health Foundation and four other NHS centres across the UK. This is a seven-year, million-pound project working to reduce health inequalities.\nMy team’s specialty is working with big, messy, high-security health and social care data. We create useful analysis for policy makers and care providers.\nGet in touch if you’re interested in an academic + NHS collaboration! We’re always looking for partners in improving care.\n\n\nWho Gets Treated First?\nMillions of people are waiting for NHS care, they’re waiting longer than ever, and the waitlist is growing. How do we prioritise who gets care? How should the NHS spend it’s funding to shorten waitlists?\nWe have a new briefing paper that describes inequalities in waiting times for hospital treatments – people who live in the most deprived areas and people from Black or Asian ethnic backgrounds wait longer for treatment.\nWe’ve also measured the consequences of longer waitlists within our NHS. We’ve found which medical procedures have patients who are using the most healthcare while they’re waiting.\nThis work lets us identify patients and procedures that could be priorised (to save patient suffering and to more efficiently spend NHS resources).\nCome see me present this work at the Royal Statistical Society’s conference in Edinburgh!\n\n\nPrevention versus Recovery\nHow do patients end up in hospital? Who comes as an emergency? Who is advised to come by their GP? And where do people go when they’re released from hospital? Do they go straight home, or stay at a local care centre first?\nWe recently published on patient pathways into and out of hospital. We found that pre-COVID, community medical centres were used primarily for preventative care, but they are now mostly used for older and sicker patients’ recovery after a hospitalisation.\nThis work highlights the loss of preventative care due to bottlenecks in the care pathway.\n\n\nChildren’s Mental Health\nWe have several studies looking to understand inequalities in children’s mental healthcare.\nRead a blog post about mental health prescribing to children. Or a post about children’s treatment by specialist mental health doctors.\nCheck out our briefing paper for policy makers. Or read our article on inequalities in children’s mental healthcare and on the mental healthcare of children at risk of significant harm\nWe show that prescriptions for mental health medications have increased steeply, and that younger children and boys are more likely to be rejected by mental health services. We also found that children deemed at significant risk of harm by social workers used five times more mental healthcare.\n\n\nPublic Health\nI also make open-source tools about local communities and their needs for NHS Public Health.\nCheck out:\nPoverty and emergency hospital admissions\nOvercrowding and vaccine needs\nFunding in priority neighbourhoods\n\n\nResearch Culture\nI’m a huge advocate for open science and good research culture. Scientists should be (but aren’t) rewarded for doing rigorous science. I recently gave evidence about this to the House of Commons Science & Technology committee. You can also watch a symposium I hosted: Academic Journals are Broken. Let’s Build a Better Scientific Record.\n\n\nCoronavirus\nDuring the pandemic, I led a Chief Scientist’s Office project to protect patients with serious medical conditions from coronavirus.\nWe advised the NHS on how to protect these patients as they receive necessary care during the pandemic. Read the briefing paper, research or a few blog posts.\n\n\nData Provenance\nIn 2022, I finished a Wellcome Trust Open Research project to design safe ways to be open while using high-security patient data. We automated the capture and reporting of complex data provenance without compromising patient data privacy.\n\n\nContact\nEmail (jessica.butler2 at nhs dot scot)\nUniversity website\nGoogle Scholar\nOrcid\nGithub\nBluesky\nMastodon\nTwitter"
+    "text": "I’m the Lead Data Scientist at NHS Grampian and Senior Research Fellow at the University of Aberdeen.\n\nNetworked Data Lab\nI run Grampian’s collaboration with The Health Foundation and four other NHS centres across the UK. This is a seven-year, multi-million-pound project working to reduce health inequalities.\nMy team’s specialty is working with big, messy, high-security health and social care data. We create useful analysis for policy makers and care providers.\nGet in touch if you’re interested in an academic + NHS collaboration! We’re always looking for partners in improving care.\n\n\nWho Gets Treated First?\nMillions of people are waiting for NHS care, they’re waiting longer than ever, and the waitlist is growing. How do we prioritise who gets care? How should the NHS spend it’s funding to shorten waitlists?\nWe have a new briefing paper that describes inequalities in waiting times for hospital treatments – people who live in the most deprived areas and people from Black or Asian ethnic backgrounds wait longer for treatment.\nWe’ve also measured the consequences of longer waits. We’ve found which medical procedures have patients who are using the most healthcare while they’re waiting.\nThis work lets us identify patients and procedures that could be priorised (to save patient suffering and to more efficiently spend NHS resources).\nCome see me present this work at the Royal Statistical Society’s conference in Edinburgh!\n\n\nPrevention versus Recovery\nHow do patients end up in hospital? Who comes as an emergency? Who is advised to come by their GP? And where do people go when they’re released from hospital? Do they go straight home, or stay at a local care centre first?\nWe recently published on patient pathways into and out of hospital. We found that pre-COVID, community medical centres were used primarily for preventative care, but they are now mostly used for older and sicker patients’ recovery after a hospitalisation.\nThis work highlights the loss of preventative care due to bottlenecks in the care pathway.\n\n\nChildren’s Mental Health\nWe have several studies looking to understand inequalities in children’s mental healthcare.\nRead a blog post about mental health prescribing to children. Or a post about children’s treatment by specialist mental health doctors.\nCheck out our briefing paper for policy makers. Or read our article on inequalities in children’s mental healthcare and on the mental healthcare of children at risk of significant harm\nWe show that prescriptions for mental health medications have increased steeply, and that younger children and boys are more likely to be rejected by mental health services. We also found that children deemed at significant risk of harm by social workers used five times more mental healthcare.\n\n\nPublic Health\nI also make open-source tools about local communities and their needs for NHS Public Health.\nCheck out:\nPoverty and emergency hospital admissions\nOvercrowding and vaccine needs\nFunding in priority neighbourhoods\n\n\nResearch Culture\nI’m a huge advocate for open science and good research culture. Scientists should be (but aren’t) rewarded for doing rigorous science. I recently gave evidence about this to the House of Commons Science & Technology committee. You can also watch a symposium I hosted: Academic Journals are Broken. Let’s Build a Better Scientific Record.\n\n\nCoronavirus\nDuring the pandemic, I led a Chief Scientist’s Office project to protect patients with serious medical conditions from coronavirus.\nWe advised the NHS on how to protect these patients as they receive necessary care during the pandemic. Read the briefing paper, research or a few blog posts.\n\n\nData Provenance\nIn 2022, I finished a Wellcome Trust Open Research project to design safe ways to be open while using high-security patient data. We automated the capture and reporting of complex data provenance without compromising patient data privacy.\n\n\nContact\nEmail (jessica.butler2 at nhs dot scot)\nUniversity website\nGoogle Scholar\nBluesky\nMastodon"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "blog posts",
     "section": "",
-    "text": "Goldacre Report\n\n\nImproving research and analysis with NHS data\n\n\n\n\n\n\n\n\nDec 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nChildren’s specialist mental health care\n\n\n\n\n\n\n\n\n\n\n\nOct 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nMental health medication for children\n\n\n\n\n\n\n\n\n\n\n\nOct 3, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "From preventing hospital admissions to recovering from them\n\n\nEvolution of community care in Grampian\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoldacre Report\n\n\nImproving research and analysis with NHS data\n\n\n\n\n\n\n\n\nDec 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nChildren’s specialist mental health care\n\n\n\n\n\n\n\n\n\n\n\nOct 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nMental health medication for children\n\n\n\n\n\n\n\n\n\n\n\nOct 3, 2022\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/pis/index.html",
@@ -163,7 +163,7 @@
   {
     "objectID": "posts/intermediate_care/index.html#healthcare-in-your-community",
     "href": "posts/intermediate_care/index.html#healthcare-in-your-community",
-    "title": "Patient pathways into and out of hospital",
+    "title": "From preventing admissions to recovering from them: evolution of community care in Grampian",
     "section": "",
     "text": "The Scottish Government states\n“we must deliver person-centred community-based services that will help people to live healthy, independent lives in the way they want, where they want, and when they want.”"
   },
@@ -177,21 +177,21 @@
   {
     "objectID": "posts/intermediate_care/index.html#intermediate-care-in-nhs-grampian",
     "href": "posts/intermediate_care/index.html#intermediate-care-in-nhs-grampian",
-    "title": "Patient pathways into and out of hospital",
+    "title": "From preventing admissions to recovering from them: evolution of community care in Grampian",
     "section": "Intermediate care in NHS Grampian",
     "text": "Intermediate care in NHS Grampian\n\nMost intermediate care takes place in small community hospitals."
   },
   {
     "objectID": "posts/intermediate_care/index.html#between-gp-care-and-hospital-care",
     "href": "posts/intermediate_care/index.html#between-gp-care-and-hospital-care",
-    "title": "Patient pathways into and out of hospital",
+    "title": "From preventing admissions to recovering from them: evolution of community care in Grampian",
     "section": "Between GP care and hospital care",
     "text": "Between GP care and hospital care\n\n“Intermediate Care can help shift the balance of care away from hospital and can reduce the need for alternative, longer-term care services, such as home care, or permanent admission to a care home.”"
   },
   {
     "objectID": "posts/intermediate_care/index.html#pathways-into-and-out-of-hospital",
     "href": "posts/intermediate_care/index.html#pathways-into-and-out-of-hospital",
-    "title": "Patient pathways into and out of hospital",
+    "title": "From preventing admissions to recovering from them: evolution of community care in Grampian",
     "section": "Pathways into and out of hospital",
     "text": "Pathways into and out of hospital\n\nPatients get care before or after a hospital stay at home, at a community hospital, or at a care home"
   },
@@ -205,14 +205,14 @@
   {
     "objectID": "posts/intermediate_care/index.html#our-research-goals-were-to-measure",
     "href": "posts/intermediate_care/index.html#our-research-goals-were-to-measure",
-    "title": "Patient pathways into and out of hospital",
+    "title": "From preventing admissions to recovering from them",
     "section": "Our research goals were to measure",
-    "text": "Our research goals were to measure\n\nWho receives intermediate care?\nHow much care is for people coming from the big hospitals?\nHow much care is for people coming from home?\nWhat are the medical needs of the patients?\nHow has intermediate care changed over time?\nAre there differences across locations?"
+    "text": "Our research goals were to measure\n\nWho receives care in community hospitals?\nHow much care is for people coming from the big hospitals?\nHow much care is for people coming from home?\nWhat are the medical needs of the patients?\nHow has intermediate care changed over time?\nAre there differences across locations?"
   },
   {
     "objectID": "posts/intermediate_care/index.html#who-did-we-study",
     "href": "posts/intermediate_care/index.html#who-did-we-study",
-    "title": "Patient pathways into and out of hospital",
+    "title": "From preventing hospital admissions to recovering from them",
     "section": "Who did we study?",
     "text": "Who did we study?\n\n\nAny person age 50 and above\n\nWho was admitted any time in 2018 through 2023\n\nTo any of the 17 intermediate care settings\n[11 community hospitals in Aberdeenshire, 4 in Moray, Rosewell House, or Hospital-at-Home (home care delivered by NHSG consultants)]"
   },
@@ -233,8 +233,50 @@
   {
     "objectID": "posts/intermediate_care/index.html",
     "href": "posts/intermediate_care/index.html",
-    "title": "Patient pathways into and out of hospital",
+    "title": "From preventing hospital admissions to recovering from them",
     "section": "",
-    "text": "The Scottish Government states\n“we must deliver person-centred community-based services that will help people to live healthy, independent lives in the way they want, where they want, and when they want.”"
+    "text": "The Scottish Government states\nAcross Scotland, GPs provide intermediate care in community-based, intermediate-tier care centres (generally called community hospitals in NHS Grampian).\nTheir goals are 1) to prevent admissions to hospital, or 2) to shorten stays in hospital by providing recovery care.\nWe asked these questions\nWe found that in the past five years, care in intermediate centres has shifted dramatically – from preventative care overseen by GPs, to care of more older and seriously ill patients transferred from hospital.\nWe analysed all people age 50+ who were admitted to any of the 17 intermediate care settings in NHS Grampian from 2019-2023 (13,000 people total). For each patient, we linked their medical records from inpatient, outpatient and emergency admissions, and GP prescribing over the previous ten years. We then measured 1) intermediate care use; 2) patient pathways into intermediate care, and 3) differences in care use and pathways into care by: medical acuity, demographics, and between urban and rural care settings.\nThere were 24,000 admissions to intermediate care in the five-year study period. The patient population changed substantially:"
+  },
+  {
+    "objectID": "posts/intermediate_care/index.html#who-used-community-hospitals",
+    "href": "posts/intermediate_care/index.html#who-used-community-hospitals",
+    "title": "From preventing hospital admissions to recovering from them",
+    "section": "Who used community hospitals?",
+    "text": "Who used community hospitals?\n\nIn the five years from 2019 to 2023, 13,000 people were admitted to community hospitals and other intermediate care settings. Some people had more than one admission, and overall there were 24,000 admissions. That’s 2% of the Grampian population per year."
+  },
+  {
+    "objectID": "posts/intermediate_care/index.html#are-patients-coming-from-home-for-extra-care-or-coming-from-hospital-for-recovery",
+    "href": "posts/intermediate_care/index.html#are-patients-coming-from-home-for-extra-care-or-coming-from-hospital-for-recovery",
+    "title": "From preventing hospital admissions to recovering from them",
+    "section": "Are patients coming from home for extra care, or coming from hospital for recovery",
+    "text": "Are patients coming from home for extra care, or coming from hospital for recovery"
+  },
+  {
+    "objectID": "posts/intermediate_care/index.html#community-hospitals-fewer-patients-staying",
+    "href": "posts/intermediate_care/index.html#community-hospitals-fewer-patients-staying",
+    "title": "From preventing hospital admissions to recovering from them",
+    "section": "Community hospitals: fewer patients staying",
+    "text": "Community hospitals: fewer patients staying\n\nAdmissions to community hospitals are down steeply. However, patients are staying much longer - from 14 days to 20 days on average, with many patients staying more than six weeks.\n\n\nTell me more\nThis research was done as part of the Networked Data Lab with partners at The Health Foundation.\nFrank Popham led this analysis with me. Other contributors were: Corri Black, Corri Black, Raul Berrocal-Martin, Sharon Gordon, Kate O’Sullivan, Helen Rowlands, Bernhard Scheliga, Irmina Zborowska, and the NHS Grampian Public Health – Health Intelligence Team.\nPolicy recommendations from our work are in the briefing Are intermediate care services stretched too thin?"
+  },
+  {
+    "objectID": "posts/intermediate_care/index.html#does-intermediate-care-keep-people-out-of-hospital",
+    "href": "posts/intermediate_care/index.html#does-intermediate-care-keep-people-out-of-hospital",
+    "title": "From preventing hospital admissions to recovering from them",
+    "section": "Does intermediate care keep people out of hospital?",
+    "text": "Does intermediate care keep people out of hospital?\n\nWe Who receives care in community hospitals?\nHow much care is for people coming from the big hospitals?\nHow much care is for people coming from home?\nWhat are the medical needs of the patients?\nHow has intermediate care changed over time?\nAre there differences across locations?"
+  },
+  {
+    "objectID": "posts/intermediate_care/index.html#are-patients-coming-from-home-or-from-hospital",
+    "href": "posts/intermediate_care/index.html#are-patients-coming-from-home-or-from-hospital",
+    "title": "From preventing hospital admissions to recovering from them",
+    "section": "Are patients coming from home or from hospital?",
+    "text": "Are patients coming from home or from hospital?\n\nIn 2019, the vast majority of patients in community hospitals were coming from home for extra care. These are considered preventative stays - GPs send patients to community hospital in the hopes of preventing an admission to acute hospitals.\nIn just five years that changed - now half of all patients are coming to community hospitals after a stay at a larger hospital.\nCommunity hospitals in NHS hospitals have changed from providing mostly preventative care to providing recovery care."
+  },
+  {
+    "objectID": "posts/intermediate_care/index.html#summary",
+    "href": "posts/intermediate_care/index.html#summary",
+    "title": "From preventing hospital admissions to recovering from them",
+    "section": "Summary",
+    "text": "Summary\nOur key finding is that since 2019, NHS Grampian’s community care settings changed from providing short-term, preventative care, to providing long-term post-acute care.\nKey policy questions follow:\nAre these care centres the right settings for step-down and end-of-life care? If so, where should the lost preventative and scheduled care take place?\nWe note that in order to proactively plan a balance of preventative and acute care, more data sharing is required. Though intermediate care is delivered by Health and Social Care Partnerships in Scotland, patient data are not shared between the primary and secondary care, nor with social care. No true integrated care can take place until data for the entire patient journey can be linked.\n\nTell me more\nThis research was done as part of the Networked Data Lab with partners at The Health Foundation.\nFrank Popham led this analysis with me. Other contributors were: Corri Black, Corri Black, Raul Berrocal-Martin, Sharon Gordon, Kate O’Sullivan, Helen Rowlands, Bernhard Scheliga, Irmina Zborowska, and the NHS Grampian Public Health – Health Intelligence Team.\nPolicy recommendations from our work are in the briefing Are intermediate care services stretched too thin?. Please see the appendices therein for more details."
   }
 ]
