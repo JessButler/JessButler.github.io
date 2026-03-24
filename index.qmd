@@ -44,7 +44,7 @@ How do patients end up in hospital? Who comes as an emergency? Who is advised to
 
 We recently published on [patient pathways into and out of hospital](https://www.health.org.uk/reports-and-analysis/briefings/are-intermediate-care-services-stretched-too-thin). We found that pre-COVID, community medical centres were used primarily for preventative care, but they are now mostly used for older and sicker patients’ recovery after a hospitalisation.
 
-This work highlights the loss of preventative care due to bottlenecks in the care pathway.
+This work highlights the loss of preventative care due to bottlenecks in the care pathway. Read a summary [here](https://jessbutler.github.io/posts/intermediate_care/).
 
 ### Children's Mental Health
 
