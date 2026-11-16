@@ -1,0 +1,87 @@
+---
+title: Publications
+---
+
+### Networked Data Lab 
+
+- Butler J, Knight H (2026). [The Networked Data Lab: Using novel data linkage to impact health inequalities](https://pmc.ncbi.nlm.nih.gov/articles/PMC13426696/). *International Journal of Population Data Science* 11(5). DOI: [10.23889/ijpds.v11i5.3600](https://doi.org/10.23889/ijpds.v11i5.3600)
+
+- Health Foundation: [Networked Data Lab: using linked data to tackle health and care challenges](https://www.health.org.uk/features-and-opinion/features/networked-data-lab-using-linked-data-to-tackle-health-and-care)
+
+- Rzewuska M, Gordon S, Ball W, Butler J, Aberdeen Centre for Health Data Science PPIE Group (2022). ["All about communication": a perspective on our public involvement practices in the Networked Data Lab in Grampian](https://ijpds.org/index.php/ijpds/article/view/1912). *International Journal of Population Data Science* 7(3), IPDLN conference abstract. DOI: [10.23889/ijpds.v7i3.1912](https://doi.org/10.23889/ijpds.v7i3.1912)
+
+### Waiting for NHS Care
+- Prendergast T, Knight H, Barr B, Butler J, et al. (2026). [The Networked Data Lab: What linked data can tell us about the elective care waiting list in the UK](https://doi.org/10.23889/ijpds.v11i5.3736). *International Journal of Population Data Science* 11(5). DOI: [10.23889/ijpds.v11i5.3736](https://doi.org/10.23889/ijpds.v11i5.3736)
+
+### Housing and Health
+- Prendergast T, Knight H, Barr B, Butler JE, et al. (2025). [The elective care waiting list: insights from linked data](https://www.health.org.uk/reports-and-analysis/briefings/the-elective-care-waiting-list-insights-from-linked-data). 
+
+### Healthcare between Hospitals and Home
+
+- Fraser C, Prendergast T, Knight H, Bentley L, Butler JE, et al. (2024). [Are intermediate care services stretched too thin?](https://www.health.org.uk/reports-and-analysis/briefings/are-intermediate-care-services-stretched-too-thin) The Health Foundation briefing. DOI: [10.37829/HF-2024-NDL01](https://doi.org/10.37829/HF-2024-NDL01)
+
+### Children's mental health
+
+- Briefing paper for policy makers: Grimm F, Alcock B, Butler JE, et al. (2022). [Improving children and young people's mental health services](https://www.health.org.uk/publications/reports/improving-children-and-young-peoples-mental-health-services). The Health Foundation. DOI: [10.37829/hf-2022-ndl1](https://doi.org/10.37829/hf-2022-ndl1)
+
+- Ball WP, Black C, Gordon S, Ostrovska B, Paranjothy S, Rasalam A, Ritchie D, Rowlands H, Rzewuska M, Thompson E, Wilde K, Butler JE (2023). [Inequalities in children's mental health care: analysis of routinely collected data on prescribing and referrals to secondary care](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04438-5). *BMC Psychiatry* 23(1), 22. DOI: [10.1186/s12888-022-04438-5](https://doi.org/10.1186/s12888-022-04438-5)
+
+  - Conference abstract (IPDLN 2022): [Inequalities in children's mental health prescribing and referrals for specialist mental health services](https://ijpds.org/index.php/ijpds/article/view/1980), *International Journal of Population Data Science* 7(3). DOI: [10.23889/ijpds.v7i3.1980](https://doi.org/10.23889/ijpds.v7i3.1980)
+  
+  - Preprint: [medRxiv](https://www.medrxiv.org/content/10.1101/2022.06.14.22276082v2), DOI: [10.1101/2022.06.14.22276082](https://doi.org/10.1101/2022.06.14.22276082)
+- Ball WP, Anderson C, Black C, Gordon S, Lackenby M, Murchie M, et al. (2024). [Mental health service use in children at risk of significant harm: a record linkage study of a child protection register](https://doi.org/10.1016/j.socscimed.2024.117057). *Social Science & Medicine* 353, 117057. DOI: [10.1016/j.socscimed.2024.117057](https://doi.org/10.1016/j.socscimed.2024.117057)
+
+  - Conference abstract (SSM Annual Scientific Meeting 2024): [OP02 Mental health disorders in children at risk of significant harm](https://doi.org/10.1136/jech-2024-ssmabstracts.2), *J Epidemiol Community Health*. DOI: [10.1136/jech-2024-ssmabstracts.2](https://doi.org/10.1136/jech-2024-ssmabstracts.2)
+  
+  - Preprint: [Serious mental health diagnoses in children on the Child Protection Register: a record linkage study](https://doi.org/10.1101/2023.10.13.23296488), medRxiv. DOI: [10.1101/2023.10.13.23296488](https://doi.org/10.1101/2023.10.13.23296488)
+- Ball W, Black C, Butler J, Cannon-Mulligan D, Diaz MR (2025). Emergency department mental health attendances among adolescents: a population-based analysis of linked electronic health records. Conference abstract OP21, *J Epidemiol Community Health* 79 (Suppl 1), A10-A11. Source: [Google Scholar profile](https://scholar.google.com/citations?user=N3iK7TcAAAAJ&hl=en). DOI: none found
+
+### Coronavirus
+
+- Briefing paper: Hodgson K, Butler JE, et al (2021). [Assessing the impact of COVID-19 on the clinically extremely vulnerable population](https://www.health.org.uk/publications/reports/assessing-the-impact-of-covid-19-on-the-clinically-extremely-vulnerable-population). The Health Foundation. DOI: [10.37829/HF-2021-NDL01](https://doi.org/10.37829/HF-2021-NDL01)
+
+- Butler J, Nath M, Blana D, Ball W, Beech N, Black C, Osler G, Peytrignet S, Rzewuska M, Wilde K, Wozniak A, Sawhney S (2022). [The clinically extremely vulnerable to COVID: identification and changes in healthcare while self-isolating (shielding) during the coronavirus pandemic](https://ijpds.org/article/view/1897). *International Journal of Population Data Science* 7(3), IPDLN conference abstract. DOI: [10.23889/ijpds.v7i3.1897](https://doi.org/10.23889/ijpds.v7i3.1897)
+
+  - Preprint: [medRxiv](https://www.medrxiv.org/content/10.1101/2021.09.09.21263026v1), DOI: [10.1101/2021.09.09.21263026](https://doi.org/10.1101/2021.09.09.21263026)
+- Blog posts: [demographic variation in groups advised to shield](https://www.health.org.uk/news-and-comment/charts-and-infographics/exploring-demographic-variation-in-groups-advised-to-shield); [hospital use by the clinically extremely vulnerable population](https://www.health.org.uk/news-and-comment/charts-and-infographics/hospital-use-clinically-extremely-vulnerable-population). 
+
+
+### Scientifc Rigour
+
+- Butler J, Jacobs N, Macleod M, Munafò M (2023). [The UK Reproducibility Network: a progress report](https://doi.org/10.1016/j.jneumeth.2023.109949). *Journal of Neuroscience Methods* 397, 109949. DOI: [10.1016/j.jneumeth.2023.109949](https://doi.org/10.1016/j.jneumeth.2023.109949)
+
+- Stewart SLK, Pennington CR, da Silva GR, Ballou N, Butler J, Dienes Z, et al. (2022). [Reforms to improve reproducibility and quality must be coordinated across the research ecosystem: the view from the UKRN Local Network Leads](https://doi.org/10.1186/s13104-022-05949-w). *BMC Research Notes* 15, 58. DOI: [10.1186/s13104-022-05949-w](https://doi.org/10.1186/s13104-022-05949-w)
+
+- Bradley SH, DeVito NJ, Lloyd KE, Logullo P, Butler JE (2022). [Improving medical research in the United Kingdom](https://doi.org/10.1186/s13104-022-06050-y). *BMC Research Notes* 15, 165. DOI: [10.1186/s13104-022-06050-y](https://doi.org/10.1186/s13104-022-06050-y)
+
+#### Registered Report
+- Butler J, Black C, Craig P, Dibben C, Dundas R, Hilton Boon M, et al. (2020). [The long-term health effects of attending a selective school: a natural experiment](https://doi.org/10.1186/s12916-020-01536-7). *BMC Medicine* 18, 77. DOI: [10.1186/s12916-020-01536-7](https://doi.org/10.1186/s12916-020-01536-7)
+
+### Trusted Research Environments
+
+- Scheliga B, Wilde K, Evans J, Butler JE, Berrocal-Martin R (2026). [An experience-driven framework for overcoming challenges in cross-agency data linkage](https://doi.org/10.23889/ijpds.v11i5.3680). *International Journal of Population Data Science* 11(5). DOI: [10.23889/ijpds.v11i5.3680](https://doi.org/10.23889/ijpds.v11i5.3680). 
+
+- Scheliga B, Markovic M, Rowlands H, Wozniak A, Wilde K, Butler J (2022). [Data provenance tracking and reporting in a high-security digital research environment](https://ijpds.org/article/view/1909). *International Journal of Population Data Science* 7(3), IPDLN conference abstract. DOI: [10.23889/ijpds.v7i3.1909](https://doi.org/10.23889/ijpds.v7i3.1909)
+
+### Multimorbidity and cohort studies
+
+- Robertson L, Vieira R, Butler J, Johnston M, Sawhney S, Black C (2022). [Identifying multimorbidity clusters in an unselected population of hospitalised patients](https://doi.org/10.1038/s41598-022-08690-3). *Scientific Reports* 12, 5134. DOI: [10.1038/s41598-022-08690-3](https://doi.org/10.1038/s41598-022-08690-3)
+
+- Johnston M, Butler J, Clark H, Locock L, Murray A, Robertson L, et al. (2019). [Co-design of data collection with participants of the Aberdeen Children of the 1950s cohort study](https://doi.org/10.23889/ijpds.v4i3.1220). *International Journal of Population Data Science* 4(3). DOI: [10.23889/ijpds.v4i3.1220](https://doi.org/10.23889/ijpds.v4i3.1220)
+
+- Johnston M, Black C, Mercer S, Prescott G, Butler J (2018). [The prevalence of multimorbidity measured by linked healthcare data and its association with mortality in a large longitudinal cohort](https://doi.org/10.23889/ijpds.v3i2.490). *International Journal of Population Data Science* 3(4). DOI: [10.23889/ijpds.v3i2.490](https://doi.org/10.23889/ijpds.v3i2.490)
+
+- Chapko D, Butler J, Black C, Johnston M, Fall C, Kumaran K, et al. (2018). [Public engagement with cohort participants in Scotland and India: how do participants want to shape mental health research?](https://doi.org/10.23889/ijpds.v3i4.621) *International Journal of Population Data Science* 3(4). DOI: [10.23889/ijpds.v3i4.621](https://doi.org/10.23889/ijpds.v3i4.621)
+
+
+### Earlier work in microbial genomics
+
+- Butler JE, Young ND, Aklujkar M, Lovley DR (2012). [Comparative genomic analysis of *Geobacter sulfurreducens* KN400](https://doi.org/10.1186/1471-2164-13-471). *BMC Genomics* 13, 471. DOI: [10.1186/1471-2164-13-471](https://doi.org/10.1186/1471-2164-13-471)
+
+- Butler JE, Young ND, Lovley DR (2010). [Evolution of electron transfer out of the cell: comparative genomics of six *Geobacter* genomes](https://doi.org/10.1186/1471-2164-11-40). *BMC Genomics* 11, 40. DOI: [10.1186/1471-2164-11-40](https://doi.org/10.1186/1471-2164-11-40)
+
+- Butler JE, Young ND, Lovley DR (2009). [Evolution from a respiratory ancestor to fill syntrophic and fermentative niches: comparative genomics of six Geobacteraceae species](https://doi.org/10.1186/1471-2164-10-103). *BMC Genomics* 10, 103. DOI: [10.1186/1471-2164-10-103](https://doi.org/10.1186/1471-2164-10-103)
+
+- Sun J, Sayyar B, Butler JE, et al. (2009). [Genome-scale constraint-based modeling of *Geobacter metallireducens*](https://doi.org/10.1186/1752-0509-3-15). *BMC Systems Biology* 3, 15. DOI: [10.1186/1752-0509-3-15](https://doi.org/10.1186/1752-0509-3-15)
+
+- Butler JE, He Q, Nevin KP, He Z, Zhou J, Lovley DR (2007). [Genomic and microarray analysis of aromatics degradation in *Geobacter metallireducens*](https://doi.org/10.1186/1471-2164-8-180). *BMC Genomics* 8, 180. DOI: [10.1186/1471-2164-8-180](https://doi.org/10.1186/1471-2164-8-180)

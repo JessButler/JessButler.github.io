@@ -1,0 +1,33 @@
+---
+title: Talks
+---
+
+I gave evidence on scientific rigour to the [House of Commons Science & Technology committee](https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/101/summary.html).  
+[Watch the inquiry](https://committees.parliament.uk/event/6626/formal-meeting-oral-evidence-session/).
+[Read our written evidence](https://committees.parliament.uk/writtenevidence/39708/html/)
+
+[Helping Policymakers Tackle the NHS Waitlist](https://www.youtube.com/watch?v=FD9VbDrnqnI) (Royal Statistical Society)
+
+[Do Longer Waits Effect Health](https://apps.hdruklearn.org/learning/course/course-v1:HDRUK+WLC001+2026/home) (HDRUK Conference)
+
+[Children's Mental Health Care: Discoveries (and Disasters) During Data Linkage](https://www.youtube.com/watch?v=5R0AbfkQzNU) (Health and Care Analytics Conference)
+
+[Academic Journals are Broken. Let's Build a Better Scientific Record.](https://www.youtube.com/watch?v=1G2btEDb0j0) (Metascience Conference)
+
+[Doing Data Science For Good](https://www.youtube.com/watch?v=2alLcZYHvtg) (Women in Data Science Conference)
+
+[Science is Broken, Openness Can Help Fix It](https://www.youtube.com/watch?v=TbVF4QSYrF4&list=PLidyPVkhfk0hefRDg1lTLzCUR1tNbjBqr&index=8) (Open Data Conference)
+
+[Organising Ourselves for World Domination](https://www.youtube.com/watch?v=p8EV6baSZCc&list=PLidyPVkhfk0hefRDg1lTLzCUR1tNbjBqr&index=3) (British Neuroscience Association)
+
+[How Can We Make Research More True?](https://www.youtube.com/watch?v=YYCz7TYHg3M&list=PLidyPVkhfk0hefRDg1lTLzCUR1tNbjBqr&index=4) (UK Research Integrity Office)
+
+[Rigour is More Important Than Privacy](https://www.youtube.com/watch?v=Q6hoGJ6JCP8&list=PLidyPVkhfk0hefRDg1lTLzCUR1tNbjBqr&index=8) (Metascience Conference)
+
+[How Research Culture Drives Research Integrity](https://training.nottingham.ac.uk/Course?courseref=RARIWHR) (University of Nottingham)
+
+[Organising Ourselves for World Domination: How Junior Academics Can Work Together to Improve Research Culture](https://research.reading.ac.uk/research-blog/event/open-research-forum-2/) (University of Reading)
+
+[An Introduction to Research Integrity](https://ukrio.org/events/expert-webinar-series/an-introduction-to-research-integrity/) (UK Research Integrity Office)
+
+[Rewarding Open Science](https://datastewards.ie/conference/) (University of Cork)

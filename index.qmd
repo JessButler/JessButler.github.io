@@ -1,68 +1,20 @@
 ---
-title: "Hello!"
 image: profile.jpg
 about:
   template: solana
-  links:
-    - icon: mastodon
-      text: Mastodon
-      href: https://mastodon.social/@JessButler
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/jessbutler284
-    - icon: building
-      text: Uni
-      href: https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler
 ---
 
-I'm the Lead Data Scientist at NHS Grampian and Senior Research Fellow at the University of Aberdeen. <br>
+I’m Lead Data Scientist at NHS Grampian & Senior Research Fellow at the University of Aberdeen.  
 
-### Networked Data Lab
+I run the University of Aberdeen and NHS Grampian’s [Networked Data Lab](https://www.health.org.uk/funding-and-partnerships/our-partnerships/the-networked-data-lab), a collaboration with The Health Foundation and four other NHS sites across the UK. This is a seven-year, seven-million-pound project aiming to reduce health inequalities.  
 
-I run Grampian's  [collaboration with The Health Foundation and four other NHS centres across the UK](https://www.health.org.uk/funding-and-partnerships/the-networked-data-lab). This is a six-year project working to reduce health inequalities.  
+My team’s speciality is using high-security health and social care data to create useful analysis for policy makers.  
 
-Our team's specialty is working with big, messy, high-security health and social care data. My focus is creating *useful* analysis for policy makers and care providers.
-
-Right now we're working on understanding inequalities in children's mental healthcare. 
-
-Read a blog post about [mental health prescribing to children](https://jessbutler.github.io/posts/pis/). Or a post about [children's treatment by specialist mental health doctors](https://jessbutler.github.io/posts/referrals/).
-Check out our [briefing paper for policy makers](https://www.health.org.uk/publications/reports/improving-children-and-young-peoples-mental-health-services).
-Or wade into our academic [research article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04438-5).
-
-
-### Public Health
-
-I also make open-source tools about local communities and their needs for NHS Public Health.  
-
-Check out:  
-[Poverty and emergency hospital admissions](https://jessbutler.github.io/emergency_admissions/)  
-[Overcrowding and vaccine needs](https://jessbutler.github.io/social_distancing/)  
-[Funding in priority neighbourhoods](https://jessbutler.github.io/priority_neighbourhoods/)
-
-
-### Research Culture
-
-I'm a huge nerd for open science and good research culture. 
-Scientists should be (but aren't) rewarded for doing rigorous science. I recently gave evidence about this to the [House of Commons Science & Technology committee](https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/101/summary.html). You can also watch a spicy symposium I hosted: [Academic Journals are Broken. Let's Build a Better Scientific Record.](https://www.youtube.com/watch?v=1G2btEDb0j0) 
-
-Interested in improving research quality? I run the Aberdeen Open Research Working Group.  All are very welcome to join - just drop me an [email](mailto:jessicabutler@abdn.ac.uk). There's also lots of resources on my [uni website](https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler).
-
-### Coronavirus
-
-During the pandemic, I led a Chief Scientist's Office project to [protect patients with serious medical conditions](https://www.cso.scot.nhs.uk/rapid-research-in-covid-19-programme/abncovidportfolio/) from coronavirus.  
-
-We advised the NHS on how to protect these patients as they receive necessary care during the pandemic. Read the [briefing paper](https://www.health.org.uk/publications/reports/assessing-the-impact-of-covid-19-on-the-clinically-extremely-vulnerable-population), [research](https://www.medrxiv.org/content/10.1101/2021.09.09.21263026v1) or a few [blog](https://www.health.org.uk/news-and-comment/charts-and-infographics/exploring-demographic-variation-in-groups-advised-to-shield) [posts](https://www.health.org.uk/news-and-comment/charts-and-infographics/hospital-use-clinically-extremely-vulnerable-population).
-
-### Data Provenance
-
-In 2022, I finished a Wellcome Trust Open Research project to design safe ways to [be open while using high-security patient data](https://wellcome.ac.uk/grant-funding/people-and-projects/grants-awarded/open-reproducible-analysis-and-reporting-data). We automated the capture and reporting of complex data provenance without compromising patient data privacy.
+The Royal Statistical Society recently awarded us the [Florence Nightingale Award](https://rss.org.uk/news-publication/news-publications/2026/general-news/the-florence-nightingale-award-for-excellence-in-h/).  
 
 ### Contact
 
 [Email](mailto:jessica.butler2@nhs.scot)  
 [University website](https://www.abdn.ac.uk/iahs/people/profiles/jessicabutler)  
 [Google Scholar](https://scholar.google.com/citations?user=N3iK7TcAAAAJ&hl=en)  
-[Orcid](https://orcid.org/0000-0003-2054-3777)  
-[Github](https://github.com/JessButler)  
-<a rel="me" href="https://mastodon.social/@JessButler">Mastodon</a>  
-[Twitter](https://twitter.com/jessbutler284)
+[Orcid](https://orcid.org/0000-0003-2054-3777)  [Bluesky](https://bsky.app/profile/jessbutler.bsky.social)

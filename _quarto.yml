@@ -7,12 +7,17 @@ website:
   favicon: favicon.png
   google-analytics: "G-76SX760VM2"
   navbar:
-    right:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - publications.qmd
+      - talks.qmd
+      - media.qmd
+      - tools.qmd
       - blog.qmd
-      
+
 format:
   html:
     theme: darkly
     css: styles.css
-
-

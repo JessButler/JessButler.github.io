@@ -1,0 +1,37 @@
+---
+title: Analysis & Policy
+---
+
+### Housing and Health
+
+We found that [council tenants are much more likely to have respiratory, cardiovascular, and mental health conditions](https://www.health.org.uk/reports-and-analysis/briefings/better-homes-better-health-insights-from-linking-housing-and-health), including people living in homes that failed energy efficiency standards. We are now developing a project to prioritise these homes for repair.
+
+### Who Waits Longest?
+
+Read our briefing paper that describes inequalities in waiting times for hospital treatments – [people who live in the most deprived areas wait longer for treatment and people from Black or Asian ethnic backgrounds tended to wait longer than white patients](https://www.health.org.uk/reports-and-analysis/briefings/the-elective-care-waiting-list-insights-from-linked-data).
+
+### Losing Preventative Care
+
+We analysed patient pathways into and out of hospitals and found that [pre-COVID, community medical centres were used primarily for preventative care, but they are now mostly used for patients’ recovery after a hospitalisation](https://www.health.org.uk/reports-and-analysis/briefings/are-intermediate-care-services-stretched-too-thin).
+
+### Children's Mental Health Inequalities
+
+We showed that [use of mental health medication has increased steeply, and younger children and boys are more likely to be rejected by mental health services](https://link.springer.com/article/10.1186/s12888-022-04438-5). We also found that [children deemed at significant risk of harm by social workers used five times more mental healthcare](https://www.sciencedirect.com/science/article/pii/S0277953624005100).
+
+### Coronavirus
+
+During the pandemic, I led a Chief Scientist's Office project to [protect patients with serious medical conditions](https://www.cso.scot.nhs.uk/rapid-research-in-covid-19-programme/abncovidportfolio/) from coronavirus.
+
+We advised the NHS on [how to protect these patients as they receive necessary care during the pandemic](https://www.health.org.uk/reports-and-analysis/briefings/assessing-the-impact-of-covid-19-on-the-clinically-extremely).
+
+### Data Provenance
+
+I ran Wellcome Trust Open Research project to design safe ways to [be open while using high-security patient data](https://wellcome.ac.uk/grant-funding/people-and-projects/grants-awarded/open-reproducible-analysis-and-reporting-data). We automated the capture and reporting of complex data provenance without compromising patient data privacy.
+
+### Research Culture
+
+Scientists should be (but aren’t!) rewarded for doing rigorous science.  
+
+I gave evidence about this to the [House of Commons Science & Technology committee](https://committees.parliament.uk/event/6626/formal-meeting-oral-evidence-session/).  
+
+You can watch a symposium I hosted: [Academic Journals are Broken. Let’s Build a Better Scientific Record](https://www.youtube.com/watch?v=1G2btEDb0j0).

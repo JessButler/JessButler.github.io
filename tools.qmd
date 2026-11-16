@@ -1,0 +1,11 @@
+--- 
+title: Tools
+---
+
+I've made open-source tools about local communities and their needs for NHS Public Health staff.
+
+[Poverty and emergency hospital admissions](https://jessbutler.github.io/emergency_admissions/)
+
+[Overcrowding and vaccine needs](https://jessbutler.github.io/social_distancing/)
+
+[Funding in priority neighbourhoods](https://jessbutler.github.io/priority_neighbourhoods/)
