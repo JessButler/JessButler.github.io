@@ -2,6 +2,8 @@
 title: Tools
 ---
 
+I wrote a [lab manual that gathers best practice for data science in the NHS](https://jessbutler.github.io/lab_manual/).
+
 I've made open-source tools about local communities and their needs for NHS Public Health staff.
 
 [Poverty and emergency hospital admissions](https://jessbutler.github.io/emergency_admissions/)
