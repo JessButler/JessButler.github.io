@@ -1,6 +1,6 @@
 ---
 title: "Mental health medication for children"
-date: "2022-10-03"
+description: "Prescriptions for mental health medicine to children in NHS Grampian rose 60% since 2015. Boys receive most, and children in poorer areas receive twice as many."
 ---
 
 We looked at all children living in the NHS Grampian region (Aberdeen City, Aberdeenshire and Moray). There were 100,000 people under age 18 in total.

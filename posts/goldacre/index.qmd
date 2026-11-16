@@ -2,7 +2,7 @@
 title: "Goldacre Report"
 subtitle: "Improving research and analysis with NHS data"
 format: revealjs
-date: "7 December 2022"
+description: "A summary of the Goldacre review's recommendations for making NHS data safer and more useful for research and analysis."
 ---
 
 ```{r setup, include=FALSE}

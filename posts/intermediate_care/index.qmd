@@ -1,6 +1,7 @@
 ---
 title: "From preventing hospital admissions to recovering from them"
 subtitle: "Evolution of community care in Grampian"
+description: "Community care centres in Grampian have shifted from GP-led preventative care to long-stay recovery for older, sicker patients leaving hospital."
 ---
 
 ```{r setup, include=FALSE}

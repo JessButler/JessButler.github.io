@@ -1,6 +1,6 @@
 ---
 title: "Children's specialist mental health care"
-date: "2022-10-04"
+description: "Referrals of teenagers to specialist mental health services are rising, but rejections of young children are up too. Boys are now treated half as often as girls."
 ---
 
 We looked at all children living in the NHS Grampian region (Aberdeen City, Aberdeenshire and Moray). There were 100,000 people under age 18 in total.

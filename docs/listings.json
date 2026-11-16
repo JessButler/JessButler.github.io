@@ -2,10 +2,10 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/intermediate_care/index.html",
       "/posts/goldacre/index.html",
-      "/posts/referrals/index.html",
-      "/posts/pis/index.html"
+      "/posts/intermediate_care/index.html",
+      "/posts/pis/index.html",
+      "/posts/referrals/index.html"
     ]
   }
 ]
